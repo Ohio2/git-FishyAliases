@@ -110,7 +110,7 @@ function fish_prompt
 # This script was made by 
 # Ohio2!
 # Thanks for using this
-# Install all the apps you see here. For debian-based!
+# Install all the apps you see here. For debian-based! Unless, if YOU change it.
 ####Aliases!
  ####Use only for Certain situations
  #(                  
