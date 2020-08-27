@@ -129,5 +129,5 @@ alias rm "rm -i"
 alias mv "mv -i"
 alias ls "exa -la"
 alias l "exa -l"
-alias frm "rm -rf -i"
+alias shtime "sh ~/time.sh" #REQUIRES SHTIME!
 end
